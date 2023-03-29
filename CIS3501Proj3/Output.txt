@@ -1,0 +1,313 @@
+Inserting 11
+Inserting 12
+Inserting 13
+Inserting 14
+Inserting 15
+Inserting 16
+Inserting 17
+Inserting 18
+Inserting 19
+Inserting 20
+Searching 11
+11 Found in Linear Table!
+11 Found in Chain Table!
+Searching 12
+12 Found in Linear Table!
+12 Found in Chain Table!
+Searching 13
+13 Found in Linear Table!
+13 Found in Chain Table!
+Searching 14
+14 Found in Linear Table!
+14 Found in Chain Table!
+Searching 15
+15 Found in Linear Table!
+15 Found in Chain Table!
+Searching 16
+16 Found in Linear Table!
+16 Found in Chain Table!
+Searching 17
+17 Found in Linear Table!
+17 Found in Chain Table!
+Searching 18
+18 Found in Linear Table!
+18 Found in Chain Table!
+Searching 19
+19 Found in Linear Table!
+19 Found in Chain Table!
+Searching 20
+20 Found in Linear Table!
+20 Found in Chain Table!
+
+Linear Hash Table
+
+Index0:EMPTY
+Index1:EMPTY
+Index2:EMPTY
+Index3:EMPTY
+Index4:EMPTY
+Index5:EMPTY
+Index6:EMPTY
+Index7:EMPTY
+Index8:EMPTY
+Index9:EMPTY
+Index10:EMPTY
+Index11: Key: 11  Key Count:  1
+Index12: Key: 12  Key Count:  1
+Index13: Key: 13  Key Count:  1
+Index14: Key: 14  Key Count:  1
+Index15: Key: 15  Key Count:  1
+Index16: Key: 16  Key Count:  1
+Index17: Key: 17  Key Count:  1
+Index18: Key: 18  Key Count:  1
+Index19: Key: 19  Key Count:  1
+Index20: Key: 20  Key Count:  1
+Index21:EMPTY
+Index22:EMPTY
+Index23:EMPTY
+Index24:EMPTY
+Index25:EMPTY
+Index26:EMPTY
+Index27:EMPTY
+Index28:EMPTY
+Index29:EMPTY
+Index30:EMPTY
+Index31:EMPTY
+Index32:EMPTY
+Index33:EMPTY
+Index34:EMPTY
+Index35:EMPTY
+Index36:EMPTY
+Index37:EMPTY
+Index38:EMPTY
+Index39:EMPTY
+Index40:EMPTY
+Index41:EMPTY
+Index42:EMPTY
+Index43:EMPTY
+Index44:EMPTY
+Index45:EMPTY
+Index46:EMPTY
+Index47:EMPTY
+Index48:EMPTY
+Index49:EMPTY
+Index50:EMPTY
+Index51:EMPTY
+Index52:EMPTY
+Index53:EMPTY
+Index54:EMPTY
+Index55:EMPTY
+Index56:EMPTY
+Index57:EMPTY
+Index58:EMPTY
+Index59:EMPTY
+Index60:EMPTY
+Index61:EMPTY
+Index62:EMPTY
+Index63:EMPTY
+Index64:EMPTY
+Index65:EMPTY
+Index66:EMPTY
+Index67:EMPTY
+Index68:EMPTY
+Index69:EMPTY
+Index70:EMPTY
+Index71:EMPTY
+Index72:EMPTY
+Index73:EMPTY
+Index74:EMPTY
+Index75:EMPTY
+Index76:EMPTY
+Index77:EMPTY
+Index78:EMPTY
+Index79:EMPTY
+Index80:EMPTY
+Index81:EMPTY
+Index82:EMPTY
+Index83:EMPTY
+Index84:EMPTY
+Index85:EMPTY
+Index86:EMPTY
+Index87:EMPTY
+Index88:EMPTY
+Index89:EMPTY
+Index90:EMPTY
+Index91:EMPTY
+Index92:EMPTY
+Index93:EMPTY
+Index94:EMPTY
+Index95:EMPTY
+Index96:EMPTY
+Index97:EMPTY
+Index98:EMPTY
+Index99:EMPTY
+
+
+Chained Overflow Hash Table
+
+Main Table: 
+Index: 0:EMPTY
+Index: 1:EMPTY
+Index: 2:EMPTY
+Index: 3:EMPTY
+Index: 4:EMPTY
+Index: 5:EMPTY
+Index: 6:EMPTY
+Index: 7:EMPTY
+Index: 8:EMPTY
+Index: 9:EMPTY
+Index: 10:EMPTY
+Index: 11: Key: 11  Key Count:  1 Chain Index: -1
+Index: 12: Key: 12  Key Count:  1 Chain Index: -1
+Index: 13: Key: 13  Key Count:  1 Chain Index: -1
+Index: 14: Key: 14  Key Count:  1 Chain Index: -1
+Index: 15: Key: 15  Key Count:  1 Chain Index: -1
+Index: 16: Key: 16  Key Count:  1 Chain Index: -1
+Index: 17: Key: 17  Key Count:  1 Chain Index: -1
+Index: 18: Key: 18  Key Count:  1 Chain Index: -1
+Index: 19: Key: 19  Key Count:  1 Chain Index: -1
+Index: 20: Key: 20  Key Count:  1 Chain Index: -1
+Index: 21:EMPTY
+Index: 22:EMPTY
+Index: 23:EMPTY
+Index: 24:EMPTY
+Index: 25:EMPTY
+Index: 26:EMPTY
+Index: 27:EMPTY
+Index: 28:EMPTY
+Index: 29:EMPTY
+Index: 30:EMPTY
+Index: 31:EMPTY
+Index: 32:EMPTY
+Index: 33:EMPTY
+Index: 34:EMPTY
+Index: 35:EMPTY
+Index: 36:EMPTY
+Index: 37:EMPTY
+Index: 38:EMPTY
+Index: 39:EMPTY
+Index: 40:EMPTY
+Index: 41:EMPTY
+Index: 42:EMPTY
+Index: 43:EMPTY
+Index: 44:EMPTY
+Index: 45:EMPTY
+Index: 46:EMPTY
+Index: 47:EMPTY
+Index: 48:EMPTY
+Index: 49:EMPTY
+Index: 50:EMPTY
+Index: 51:EMPTY
+Index: 52:EMPTY
+Index: 53:EMPTY
+Index: 54:EMPTY
+Index: 55:EMPTY
+Index: 56:EMPTY
+Index: 57:EMPTY
+Index: 58:EMPTY
+Index: 59:EMPTY
+Index: 60:EMPTY
+Index: 61:EMPTY
+Index: 62:EMPTY
+Index: 63:EMPTY
+Index: 64:EMPTY
+Index: 65:EMPTY
+Index: 66:EMPTY
+Index: 67:EMPTY
+Index: 68:EMPTY
+Index: 69:EMPTY
+Index: 70:EMPTY
+Index: 71:EMPTY
+Index: 72:EMPTY
+Index: 73:EMPTY
+Index: 74:EMPTY
+Index: 75:EMPTY
+Index: 76:EMPTY
+Index: 77:EMPTY
+Index: 78:EMPTY
+Index: 79:EMPTY
+Index: 80:EMPTY
+Index: 81:EMPTY
+Index: 82:EMPTY
+Index: 83:EMPTY
+Index: 84:EMPTY
+Index: 85:EMPTY
+Index: 86:EMPTY
+Index: 87:EMPTY
+Index: 88:EMPTY
+Index: 89:EMPTY
+Index: 90:EMPTY
+Index: 91:EMPTY
+Index: 92:EMPTY
+Index: 93:EMPTY
+Index: 94:EMPTY
+Index: 95:EMPTY
+Index: 96:EMPTY
+Index: 97:EMPTY
+Index: 98:EMPTY
+Index: 99:EMPTY
+
+
+Overflow Table: 
+Index: 0:EMPTY
+Index: 1:EMPTY
+Index: 2:EMPTY
+Index: 3:EMPTY
+Index: 4:EMPTY
+Index: 5:EMPTY
+Index: 6:EMPTY
+Index: 7:EMPTY
+Index: 8:EMPTY
+Index: 9:EMPTY
+Index: 10:EMPTY
+Index: 11:EMPTY
+Index: 12:EMPTY
+Index: 13:EMPTY
+Index: 14:EMPTY
+Index: 15:EMPTY
+Index: 16:EMPTY
+Index: 17:EMPTY
+Index: 18:EMPTY
+Index: 19:EMPTY
+Index: 20:EMPTY
+Index: 21:EMPTY
+Index: 22:EMPTY
+Index: 23:EMPTY
+Index: 24:EMPTY
+Index: 25:EMPTY
+Index: 26:EMPTY
+Index: 27:EMPTY
+Index: 28:EMPTY
+Index: 29:EMPTY
+
+
+METRICS FOR TEST: Normal Search
+
+			Linear		Chained
+Total Keys Inserted:	10		10
+Unique Values:		10		10
+Duplicate Values:	0		0
+
+
+Collisions
+Number Collisions:	0		0
+Distance from Home:	0		0
+Direct Inserts:		10 1.000%	10 1.000%
+Indirect Inserts:	0 0.000%	0 0.000%
+
+Average distance from Home
+Including Direct Inserts:	0.000		0.000
+Excluding Direct Inserts:	0		0
+Largest Distance:		0	0
+
+
+Searches
+Total Searches:			10		10
+Total Number of Comparisons:	10		10
+Number of Direct Access:	10 1.000%	10 1.000%
+Indirect Access
+Number of Indirect Access:	0 0.000%	0 0.000%
+Number of Comparisons (Indirect): 0		0
+Average Comparison:		0		0
+Largest Comparison:		1		0
+Done! :D
